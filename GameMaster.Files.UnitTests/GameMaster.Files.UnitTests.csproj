@@ -24,7 +24,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GameMaster.Models\GameMaster.Files\GameMaster.Files.csproj" />
+    <ProjectReference Include="..\GameMaster.Files\GameMaster.Files.csproj" />
+    <ProjectReference Include="..\GameMaster.Models\GameMaster.Models.csproj" />
   </ItemGroup>
 
 </Project>

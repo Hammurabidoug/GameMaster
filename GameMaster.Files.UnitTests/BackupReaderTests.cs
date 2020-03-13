@@ -13,6 +13,8 @@ namespace GameMaster.Files.UnitTests
             var filePath = @"GameMaster5.xml";
             var reader = new BackupReader();
             GameData gameData = reader.Read(filePath);
+
+            Assert.NotNull(gameData);
         }
     }
 }
