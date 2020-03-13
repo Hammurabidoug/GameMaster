@@ -5,3 +5,10 @@
 /GameMaster.Models/.vs/GameMaster.Models/v16
 /GameMaster.Models/GameMaster.Models/obj
 /.vs
+/GameMaster.Files.UnitTests/bin/Debug/netcoreapp3.1
+/GameMaster.Files.UnitTests/obj
+/GameMaster.Files.UnitTests/GameMaster5.xml
+/GameMaster.Models/.vs/GameMaster.Models/DesignTimeBuild
+/GameMaster.Models/GameMaster.Files/bin/Debug/netstandard2.0
+/GameMaster.Models/GameMaster.Files/obj
+/GameMaster.Models/GameMaster.Models/bin/Debug/netstandard2.0
